@@ -1,6 +1,6 @@
 # Authomotiv_landing. Проект для тренировки навыков адаптивной вёрстки
 
-## Ссылка на проект: https://svyatosllav.github.io/polarius.github.io/
+## Ссылка на проект: https://svyatosllav.github.io/authomotive.github.io/
 
 ## Стэк:
   - HTML
